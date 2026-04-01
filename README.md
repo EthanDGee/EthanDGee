@@ -1,10 +1,7 @@
-# Hi there, I'm Ethan Gee
+### Software Engineer | Specializing in Agentic AI, Automation, and Secure Tooling
+ My development focus lies at the intersection of Agentic AI, internal tooling, and data integrity. Whether I am teaching machine learning concepts or building autonomous research assistants, I believe in engineering solutions that are performant, secure, actionable, and deeply aligned with user workflows.
 
 * **LinkedIn:** [@ethandgee](https://www.linkedin.com/in/ethandgee/)
-
-### Software Engineer | Specializing in Agentic AI, Automation, and Secure Tooling
-
- My development focus lies at the intersection of Agentic AI, internal tooling, and data integrity. Whether I am teaching machine learning concepts or building autonomous research assistants, I believe in engineering solutions that are performant, secure, actionable, and deeply aligned with user workflows.
 
 ---
 
