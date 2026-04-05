@@ -22,3 +22,5 @@ My background spans academic research, technical instruction, and building rigor
 * **Internal Tooling:** CLI/TUI Development, CI/CD Integration, Automation Scripts
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EthanDGee)](https://git.io/streak-stats)
