@@ -1,6 +1,6 @@
-### Software Engineer
+### Full time Software engineer at Scribbi inc.
  
-Full time Software engineer at Scribbi inc. Focused on building the optimal learning platform for learners of all types and needs. Education is best suited when its mapped to the individual, not when it forces the student to adapt to the system. 
+At Scribbi I work on building the optimal learning platform for learners of all types and needs. Education is best suited when its mapped to the individual, not when it forces the student to adapt to the system. 
 
 * **LinkedIn:** [@ethandgee](https://www.linkedin.com/in/ethandgee/)
 
