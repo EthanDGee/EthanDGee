@@ -1,23 +1,23 @@
-### Software Engineer | Specializing in Application Development, Automation, and Secure Tooling
- My development focus lies at the intersection of highly target Appications, internal tooling, and data integrity. Whether I am teaching machine learning concepts or building autonomous research assistants, I believe in engineering solutions that are performant, secure, actionable, and deeply aligned with user workflows.
+### Software Engineer
+ 
+Full time Software engineer at Scribbi inc. Focused on building the optimal learning platform for learners of all types and needs. Education is best suited when its mapped to the individual, not when it forces the student to adapt to the system. 
 
 * **LinkedIn:** [@ethandgee](https://www.linkedin.com/in/ethandgee/)
 
 ---
 
-## How I Work & Build Tools
+Accessibility is a human right and we all benifit from it. 
 
-My background spans academic research, technical instruction, and building rigorous internal tools. I believe software should serve to accelerate not inhibit.
-
-* **Safety & Data Governance:** I build tools with data integrity by default. By enforcing transaction-based workflows and designing safe execution environments, I ensure reliability and security are built into the foundation of my code.
-* **Cross-Functional Communication:** I prioritize writing clear technical documentation and breaking down complex concepts to ensure seamless collaboration across diverse teams.
+Accessibility is not something that is limited to those in need. Bringing wider access is something that benifits all. Not just becuase it provides more ways to improve the workflows of those using tools but it also increases the amount of discussions that can be had. The wider the array of voices able to participate the better it is for all of us. 
 
 ---
 
-## Technical Arsenal
+My primary focuses span educational research, accessibility, technical instruction, backend development, and internal tooling. 
 
-* **Languages:** Java, Python, JavaScript, Rust, C, C++, C#, SQL
-* **Internal Tooling:** CLI/TUI Development, CI/CD Integration, Automation Scripts, raspberry pi development
+## Tech Stack
+
+* **Languages:** Kotlin, Java, Python, Typescript, Rust, Shell Scripting, SQL
+* **Focuses:** Machine Learning, Backend development, CLI/TUI Development, Android, Desktop App Development, CI/CD Integration, Automation Scripting
 
 ---
 
